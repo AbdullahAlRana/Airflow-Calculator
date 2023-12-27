@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>Airflow Calculator</Name>
+		<Assembly>Airflow-Calculator.dll</Assembly>
+		<ClientId>0B10BE18-570F-4C68-9837-D97426F5F016</ClientId>
+		<FullClassName>Revit_Sandbox.App</FullClassName>
+		<VendorId>com.BIMLOGiQ</VendorId>
+		<VendorDescription>BIMLOGiQ, </VendorDescription>
+	</AddIn>
+</RevitAddIns>
